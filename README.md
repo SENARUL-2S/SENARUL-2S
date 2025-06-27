@@ -1,7 +1,11 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Md. Senarul Islam</h1>
 <h3 align="center">📊 Data Analyst | 📈 Insight Explorer | 📌 SQL • Excel • Power BI • Python</h3>
-
+---
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D95D7&center=true&vCenter=true&width=435&lines=I+analyze+data+to+solve+problems.;I+visualize+insights+with+Power+BI.;I+automate+reports+using+Python+%26+SQL.;Turning+data+into+action+is+my+passion." alt="Typing SVG" />
 </p>
@@ -41,9 +45,5 @@
 ✔ SQL Queries            ✔ Excel Functions, Pivot Tables
 ✔ Python (Pandas, NumPy) ✔ Power BI & Tableau
 ✔ Business Intelligence ✔ Problem Solving with Data
----
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
