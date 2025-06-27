@@ -5,7 +5,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" height ="60" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" height ="120" alt="Coding gif"/>
 </p>
 
 ---
@@ -51,10 +51,7 @@
 ### 💻 My Top Open Source Projects
 
 [![Faculty Management](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Faculty-Management-System&theme=dark)](https://github.com/SENARUL-2S/Faculty-Management-System)
-[![Result System](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=student-result-system&theme=dark)](https://github.com/SENARUL-2S/student-result-system)
-[![GPA Calc](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=gpa-calculator&theme=dark)](https://github.com/SENARUL-2S/gpa-calculator)
-[![Mosque System](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=mosque-management&theme=dark)](https://github.com/SENARUL-2S/mosque-management)
-
+[![Mobile_Banking_System](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Mobile_Banking_System&theme=dark)](https://github.com/SENARUL-2S/Mobile_Banking_System)
 
 ---
 
@@ -83,6 +80,7 @@
 </p>
 
 </details>
+
 
 ---
 
