@@ -43,7 +43,7 @@
 
 ### 🔥 GitHub Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="60%" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENARUL-2S&theme=radical" width="60%" height="165" />
 </p>
 
 ---
