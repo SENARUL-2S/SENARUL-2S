@@ -5,7 +5,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" hieght ="60" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" height ="60" alt="Coding gif"/>
 </p>
 
 ---
@@ -50,9 +50,11 @@
 
 ### 💻 My Top Open Source Projects
 
-[![Faculty Management](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=student-result-system&theme=dark)](https://github.com/SENARUL-2S/Faculty-Management-System)
-[![Streak Stats](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=github-readme-streak-stats&theme=dark)](https://github.com/SENARUL-2S/github-readme-streak-stats)
-[![YouTube Cards](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=github-readme-youtube-cards&theme=dark)](https://github.com/SENARUL-2S/github-readme-youtube-cards)
+[![Faculty Management](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Faculty-Management-System&theme=dark)](https://github.com/SENARUL-2S/Faculty-Management-System)
+[![Result System](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=student-result-system&theme=dark)](https://github.com/SENARUL-2S/student-result-system)
+[![GPA Calc](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=gpa-calculator&theme=dark)](https://github.com/SENARUL-2S/gpa-calculator)
+[![Mosque System](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=mosque-management&theme=dark)](https://github.com/SENARUL-2S/mosque-management)
+
 
 ---
 
@@ -77,7 +79,7 @@
 <summary>🧮 My GitHub Contribution Snake 🐍</summary>
 
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/SENARUL-2S/SENARUL-2S/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 </details>
