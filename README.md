@@ -5,7 +5,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="800" hieght ="200" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="800" hieght ="120" alt="Coding gif"/>
 </p>
 
 ---
