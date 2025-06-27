@@ -5,7 +5,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
+  <img src="https://www.freepik.com/free-vector/data-analysis-template-design_60397358.htm#fromView=keyword&page=1&position=2&uuid=2b4f7e2b-a3fb-4a7d-b76d-60efecb07989&query=Data+Science+Banner" width="800" hieght ="200" alt="Coding gif"/>
 </p>
 
 ---
