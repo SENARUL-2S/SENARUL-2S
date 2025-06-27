@@ -41,9 +41,9 @@
 ✔ SQL Queries            ✔ Excel Functions, Pivot Tables
 ✔ Python (Pandas, NumPy) ✔ Power BI & Tableau
 ✔ Business Intelligence ✔ Problem Solving with Data
-
-
+---
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+---
