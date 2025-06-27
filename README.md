@@ -34,9 +34,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENARUL-2S&show_icons=true&theme=radical&rank_icon=github" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENARUL-2S&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SENARUL-2S&show_icons=true&theme=radical&rank_icon=github" width="48%" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENARUL-2S&layout=compact&theme=radical" width="48%" height="165"/>
 </p>
+
 
 ---
 
@@ -49,9 +50,9 @@
 
 ### 💻 My Top Open Source Projects
 
-[![Readme Typing SVG](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=readme-typing-svg&theme=dark)](https://github.com/SENARUL-2/readme-typing-svg)
-[![Streak Stats](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2&repo=github-readme-streak-stats&theme=dark)](https://github.com/SENARUL-2/github-readme-streak-stats)
-[![YouTube Cards](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2&repo=github-readme-youtube-cards&theme=dark)](https://github.com/SENARUL-2/github-readme-youtube-cards)
+[![Readme Typing SVG](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=readme-typing-svg&theme=dark)](https://github.com/SENARUL-2S/readme-typing-svg)
+[![Streak Stats](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=github-readme-streak-stats&theme=dark)](https://github.com/SENARUL-2S/github-readme-streak-stats)
+[![YouTube Cards](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=github-readme-youtube-cards&theme=dark)](https://github.com/SENARUL-2S/github-readme-youtube-cards)
 
 ---
 
