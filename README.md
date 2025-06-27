@@ -5,7 +5,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" height ="200" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" height ="250" alt="Coding gif"/>
 </p>
 
 ---
@@ -34,8 +34,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENARUL-2S&show_icons=true&theme=radical&rank_icon=github" width="48%" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENARUL-2S&layout=compact&theme=radical" width="55%" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SENARUL-2S&show_icons=true&theme=radical&rank_icon=github" width="45%" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENARUL-2S&layout=compact&theme=radical" width="50%" height="165"/>
 </p>
 
 
