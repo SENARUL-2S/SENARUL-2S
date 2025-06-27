@@ -73,7 +73,9 @@
 ---
 ### 🧮 My GitHub Contribution Snake 🐍
 
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SENARUL-2S/SENARUL-2S/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
