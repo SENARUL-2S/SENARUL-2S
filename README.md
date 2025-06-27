@@ -5,7 +5,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" hieght ="80" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/datasci.jpg" width="900" hieght ="60" alt="Coding gif"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 ### 💻 My Top Open Source Projects
 
-[![Readme Typing SVG](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=readme-typing-svg&theme=dark)](https://github.com/SENARUL-2S/readme-typing-svg)
+[![Faculty Management](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=student-result-system&theme=dark)](https://github.com/SENARUL-2S/Faculty-Management-System)
 [![Streak Stats](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=github-readme-streak-stats&theme=dark)](https://github.com/SENARUL-2S/github-readme-streak-stats)
 [![YouTube Cards](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=github-readme-youtube-cards&theme=dark)](https://github.com/SENARUL-2S/github-readme-youtube-cards)
 
@@ -77,7 +77,7 @@
 <summary>🧮 My GitHub Contribution Snake 🐍</summary>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 </details>
