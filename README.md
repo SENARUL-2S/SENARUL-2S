@@ -43,7 +43,7 @@
 
 ### 🔥 GitHub Contribution Streak
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SENARUL-2S/SENARUL-2S/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="60%" height="165" />
 </p>
 
 ---
@@ -68,13 +68,6 @@
   <a href="mailto:senarul.islam@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-### 🧮 My GitHub Contribution Snake 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SENARUL-2S/SENARUL-2S/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
