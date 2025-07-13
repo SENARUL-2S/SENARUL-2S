@@ -11,11 +11,10 @@
 ---
 
 ### 🧠 About Me
-- 🎓 I'm currently learning **Data Science** and **AI**
+- 🎓 I'm currently learning **Data Science**
 - 📘 Studying **Python**, **ML**, **SQL**, and **Power BI**
 - 🧪 Interested in solving real-world problems with data
-- 🎯 Career Goal: Become a **Machine Learning Engineer**
-- 💬 Ask me about Python, Pandas, or any beginner DS topics
+- 🎯 Career Goal: Become a **Data Scientist**
 
 ---
 ### 🔗 Connect With Me
@@ -32,6 +31,8 @@
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-120253?style=for-the-badge&logo=matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-320253?style=for-the-badge&logo=seaborn"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
@@ -65,13 +66,13 @@
 
 ### 📌 My Featured Projects
 - 📊 **Power BI Dashboard:** Visualizing COVID-19 BD data
-- 🤖 **ML Project:** Diabetes Prediction using Logistic Regression
 - 📈 **EDA:** Exploratory Data Analysis on Titanic Dataset
 - 🔍 **SQL Analytics:** Queries on Healthcare Dataset
+- 🤖 **ML Project:** Diabetes Prediction using Logistic Regression
 
 ---
 
 
-<p align="center">
+<p align="center", font-family="bold" font-size="18">
   🧡 Thanks for visiting! Have a great data day! ☕📊
 </p>
