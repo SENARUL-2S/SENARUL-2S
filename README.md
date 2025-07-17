@@ -58,9 +58,9 @@
 ---
 
 ### 💻 My Top Open Source Projects
-[![Online-E-commerce-Sales-Dashboard-Power-BI](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Online-E-commerce-Sales-Dashboard-Power-BI-&theme=dark)](https://github.com/SENARUL-2S/Online-E-commerce-Sales-Dashboard-Power-BI-) 
+[![Amazon-Prime-Video-Dashboard-Using-Power-BI](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Amazon-Prime-Video-Dashboard-Using-Power-BI&theme=dark)](https://github.com/SENARUL-2S/Amazon-Prime-Video-Dashboard-Using-Power-BI)
+[![Online-E-commerce-Sales-Dashboard-Power-BI](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Online-E-commerce-Sales-Dashboard-Power-BI-&theme=dark)](https://github.com/SENARUL-2S/Online-E-commerce-Sales-Dashboard-Power-BI-)
 [![Faculty Management](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Faculty-Management-System&theme=dark)](https://github.com/SENARUL-2S/Faculty-Management-System) 
-
 ---
 
 ### 📌 My Featured Projects
