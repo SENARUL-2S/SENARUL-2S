@@ -58,6 +58,7 @@
 ---
 
 ### 💻 My Top Open Source Projects
+[![Customer-Sales-Analysis-Dashboard-Power-BI](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Customer-Sales-Analysis-Dashboard-Power-BI&theme=dark)](https://github.com/SENARUL-2S/Customer-Sales-Analysis-Dashboard-Power-BI)
 [![HR-Attrition-Analytics-Dashboard-Using-Power-BI-](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=HR-Attrition-Analytics-Dashboard-Using-Power-BI-&theme=dark)](https://github.com/SENARUL-2S/HR-Attrition-Analytics-Dashboard-Using-Power-BI-)
 [![Amazon-Prime-Video-Dashboard-Using-Power-BI](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Amazon-Prime-Video-Dashboard-Using-Power-BI&theme=dark)](https://github.com/SENARUL-2S/Amazon-Prime-Video-Dashboard-Using-Power-BI)
 [![Online-E-commerce-Sales-Dashboard-Power-BI](https://github-readme-stats.vercel.app/api/pin/?username=SENARUL-2S&repo=Online-E-commerce-Sales-Dashboard-Power-BI-&theme=dark)](https://github.com/SENARUL-2S/Online-E-commerce-Sales-Dashboard-Power-BI-)
