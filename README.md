@@ -77,3 +77,6 @@
 <p align="center", font-family="bold" font-size="18">
   🧡 Thanks for visiting! Have a great data day! ☕📊
 </p>
+## 📊 GitHub Contribution Overview
+
+<img src="https://github.com/SENARUL-2S/SENARUL-2S/blob/main/contribution-chart.png?raw=true" width="300" alt="GitHub Contribution Radar" />
